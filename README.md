@@ -1,2 +1,2 @@
-# My-firts-repository
+My firts repository
 My first repository
